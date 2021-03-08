@@ -4,13 +4,7 @@ Open the command line and type in
 
 > pip install selenium
 
-```
-pip install selenium
-```
-
-
-
-2, Install Chrome Webdriver:
+2. Install Chrome Webdriver:
 
 Install the relevant web driver from the link
 
